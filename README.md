@@ -1,2 +1,2 @@
 #dem0
-test/
+test$
